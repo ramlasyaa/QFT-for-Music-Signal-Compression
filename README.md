@@ -49,11 +49,11 @@ Librosa Audio Analysis Toolkit
 
 👩‍💻 Author
 Ram Lasya
----
+
 GitHub: @ramlasyaa
----
+
 Project: Quantum Fourier Transform for Music Signal Compression
----
+
 💡 License
 This project is licensed under the MIT License.
 
