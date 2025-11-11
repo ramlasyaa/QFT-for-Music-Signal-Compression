@@ -1,0 +1,5 @@
+Method,SNR(dB),MSE,Compression Ratio
+Top-K,-2.81,0.012352,0.0312
+Low-pass,-2.81,0.012368,0.5
+Threshold-dB,-2.81,0.012361,0.0
+Quantum-QFT,-2.32,0.011031,0.25
