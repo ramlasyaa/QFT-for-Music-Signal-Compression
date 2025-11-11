@@ -10,24 +10,6 @@ By simulating QFT using quantum computing libraries, the project compares quantu
 - Compare **quantum vs. classical** signal compression in terms of fidelity and efficiency.  
 - Demonstrate potential benefits of **quantum-based data compression**.  
 
----
-
-### 🧩 Project Structure  
-📁 Quantum Computing Project
-│
-├── qft_music_compression.py # Main implementation code
-├── audio_processing.py # Preprocessing, normalization, FFT comparison
-├── qft_simulation.ipynb # Jupyter notebook with visualizations
-├── data/
-│ ├── sample_music.wav # Input test audio file
-│ └── compressed_output.wav # Reconstructed/compressed output
-├── results/
-│ ├── plots/
-│ │ ├── qft_circuit.png
-│ │ └── waveform_comparison.png
-│ └── metrics.txt
-└── README.md # Project documentation
-
 
 ---
 
